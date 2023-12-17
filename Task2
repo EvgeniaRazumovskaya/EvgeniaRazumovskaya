@@ -1,0 +1,100 @@
+Задание 2
+
+Предусловия:
+
+1.	Установлен git bash или VScode
+2.	Создайте профиль в github
+3.	Выполненное задание сохраните в виде файла txt с каждым запросом
+4.	Не забудьте добавить его в отдельный репозиторий на github и обновить ваше портфолио
+
+Ваша задача:
+
+1.	Зайти в домашнюю директорию
+2.	Создать папку test 3
+
+mkdir test3
+
+3.	Добавить в папку test 3 три файла 4, 5 и 6, в каждом из которых должно быть по 4 строки row1, row2, row3, row4
+
+touch file4.txt
+touch file5.txt
+touch file6.txt
+
+echo row1 > file4.txt
+echo row2 >> file4.txt
+echo row3 >> file4.txt
+echo row4 >> file4.txt
+
+echo row1 > file5.txt
+echo row2 >> file5.txt
+echo row3 >> file5.txt
+echo row4 >> file5.txt
+
+echo row1 > file6.txt
+echo row2 >> file6.txt
+echo row3 >> file6.txt
+echo row4 >> file6.txt
+
+
+4.	Найдите строку row2 в файле 5
+
+grep 'row2' / file5.txt
+
+5.	Найдите строку row в папке test3
+
+grep 'row' /test3 -r|--recursive
+
+6.	Посчитайте сколько строк с содержимым row в файле 6
+
+grep 'row' / file6.txt -c|--count
+
+7.	Найдите файл 5 внутри папки test3
+
+cd test3
+find . -name “file5.txt”
+
+8.	Используя команду find, удалите файл 5
+
+find /path -name file5.txt-delete
+
+9.	Используя команду echo, добавьте слово test в файл 4
+
+echo test > file4.txt
+
+10.	Замените слово test в файле 4 на fail
+
+sed 's/test/fail/g' file4.txt
+
+
+11.	Добавьте в файл 4 слово test так, чтобы сохранилось содержимое
+
+echo test >> file4.txt
+
+12.	Просмотрите все процессы для юзеров не только в консоли, которые происходят в системе
+
+ps aux – увидеть все процессы
+или
+top -еще больше процессов
+
+
+13.	Убейте процесс 666 в консоли
+
+kill 666
+
+14.	Узнайте доступность ресурса artsiomrusau.com, используя ping
+
+ping artsiomrusau.com
+
+15.	Отправьте 5 пакетов на сайт artsiomrusau.com
+
+ping -c 5 artsiomrusau.com
+
+16.	Используя GET и команду curl, получите информацию о зарегистрированных питомцах на https://petstore.swagger.io/
+
+curl -X GET https://petstore.swagger.io/v2/pet/{petId}
+
+17.	Используя POST и команду curl, создайте нового пользователя на https://petstore.swagger.io/
+
+curl -X POST https://petstore.swagger.io/v2/pet --data “name = Kitty” --data “status = available”
+
+
