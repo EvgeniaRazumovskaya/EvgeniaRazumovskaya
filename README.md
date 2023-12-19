@@ -26,7 +26,7 @@
 
 ---
 
-### 📁 Примеры моих тест-кейсов, написанных в Qase:
+### 📁 Примеры моих тест-кейсов в Qase:
 
 Тестирование мобильного приложения:
 
@@ -40,13 +40,13 @@
 
 [Qase_other_test-cases.pdf](https://github.com/EvgeniaRazumovskaya/Test-cases/files/13719481/Qase_other_test-cases.pdf)
 
-### 🛠 Примеры моих отчетов о найденных дефектах (bug-reports), написанных в Youtrack:
+### 🛠 Примеры моих отчетов о найденных дефектах (bug-reports) в Youtrack:
 
-Скрин-шоты нескольких моих баг-репортов:
+Скрин-шоты нескольких баг-репортов:
 
 [Bug-reports_Youtrack.pdf](https://github.com/EvgeniaRazumovskaya/EvgeniaRazumovskaya/files/13719759/Bug-reports_Youtrack.pdf)
 
-Другие мои баг-репорты:
+Другие баг-репорты:
 
 [Bug-reports_Youtrack.xlsx](https://github.com/EvgeniaRazumovskaya/EvgeniaRazumovskaya/files/13719661/Bug-reports_Youtrack.xlsx)
 
