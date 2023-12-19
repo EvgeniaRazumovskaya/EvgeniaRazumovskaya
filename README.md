@@ -48,6 +48,23 @@
 [Bug-reports_Youtrack.xlsx](https://github.com/EvgeniaRazumovskaya/EvgeniaRazumovskaya/files/13719661/Bug-reports_Youtrack.xlsx)
 
 
+### ✏️ Примеры моих тест-планов и чек-листов:
+
+Тест-план для тестирования web-shop:
+
+https://docs.google.com/spreadsheets/d/10F4xlz_KJ9hOnLQk4ASNmqc9Qi9PpJUEl7jcZPSV3TA/edit?usp=sharing
+
+Чек-лист для web-shop:
+
+https://docs.google.com/spreadsheets/d/13WVHSOBX1GrXAueOYezcTyxnVj-Lmokd4W41OMyRqp4/edit?usp=sharing
+
+Чек-лист  для мобильного приложения:
+
+https://docs.google.com/spreadsheets/d/1kk95-T32W2RPX-oTAPIpF3Snux6NRStr3VBdLn7IoII/edit?usp=sharing
+
+
+
+
 ### 📁 Тестовая документация:
 
 <div>
