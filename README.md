@@ -57,7 +57,7 @@
 
 https://docs.google.com/spreadsheets/d/10F4xlz_KJ9hOnLQk4ASNmqc9Qi9PpJUEl7jcZPSV3TA/edit?usp=sharing
 
-Чек-лист для web-shop:
+Чек-лист для web-shop, тестирование раздела "Корзина" и модуля оплаты:
 
 https://docs.google.com/spreadsheets/d/13WVHSOBX1GrXAueOYezcTyxnVj-Lmokd4W41OMyRqp4/edit?usp=sharing
 
