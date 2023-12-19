@@ -76,8 +76,23 @@ https://www.postman.com/evgenia-r/workspace/my-workspace/collection/31109371-4eb
 
 https://docs.google.com/spreadsheets/d/19VVjOwdnDDZiwvXH03xzSfDwLy8sAQms3RBVslCw8Do/edit?usp=sharing
 
-### 📁 Тестовая документация:
 
+### 💾 Примеры моей работы с SQL-запросами к базам данных:
+
+Скрин-шоты отправленных запросов в MySQL Workbench
+
+[SQL.pdf](https://github.com/EvgeniaRazumovskaya/EvgeniaRazumovskaya/files/13720119/SQL.pdf)
+
+
+### ✏️ Примеры моей работы с git bash, VScode:
+
+Примеры запросов
+
+https://github.com/EvgeniaRazumovskaya/EvgeniaRazumovskaya/blob/56261f5fdfe1c722c2c76cfe4f04cc727a37942e/Task1
+
+https://github.com/EvgeniaRazumovskaya/EvgeniaRazumovskaya/blob/6243676b189a1930c80d6521a8044b71f1a253bf/Task2
+
+### 💾 Инструменты, с которыми я работаю:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>&nbsp
@@ -87,17 +102,12 @@ https://docs.google.com/spreadsheets/d/19VVjOwdnDDZiwvXH03xzSfDwLy8sAQms3RBVslCw
 </div>
 
 ---
-
-### 🛠 Тестирование веб-приложений:
-
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
   <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="postman" alt="postman" width="40" height="40"/>&nbsp
   </div>
 
 ---
-
-### 📱 Тестирование мобильных приложений:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
@@ -110,16 +120,12 @@ https://docs.google.com/spreadsheets/d/19VVjOwdnDDZiwvXH03xzSfDwLy8sAQms3RBVslCw
 
 ---
 
-### 💾 Работа с данными:
-
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
   
 </div>
 
 ---
-
-### ✏️ Работа с кодом:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
