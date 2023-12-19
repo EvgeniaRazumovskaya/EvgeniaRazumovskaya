@@ -7,7 +7,7 @@
 Я тестировщик (QA engineer), и здесь вы можете увидеть примеры моих работ
 
 - 📫 Моя почта
-: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:evgenia-v@yandex.ru)<div>
+: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mail.razumovskaya@gmail.com)<div>
        
 
 ---
