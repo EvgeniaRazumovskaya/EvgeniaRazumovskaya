@@ -39,6 +39,12 @@
 
 ### 🛠 Примеры моих отчетов о найденных дефектах (bug-reports), написанных в Youtrack:
 
+Скрин-шоты нескольких моих баг-репортов:
+
+[Bug-reports_Youtrack.pdf](https://github.com/EvgeniaRazumovskaya/EvgeniaRazumovskaya/files/13719759/Bug-reports_Youtrack.pdf)
+
+Другие мои баг-репорты:
+
 [Bug-reports_Youtrack.xlsx](https://github.com/EvgeniaRazumovskaya/EvgeniaRazumovskaya/files/13719661/Bug-reports_Youtrack.xlsx)
 
 
