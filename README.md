@@ -66,7 +66,15 @@ https://docs.google.com/spreadsheets/d/13WVHSOBX1GrXAueOYezcTyxnVj-Lmokd4W41OMyR
 https://docs.google.com/spreadsheets/d/1kk95-T32W2RPX-oTAPIpF3Snux6NRStr3VBdLn7IoII/edit?usp=sharing
 
 
+### 🛠 Примеры моей работы в Postman:
 
+Ссылка на созданную коллекцию в Postman
+
+https://www.postman.com/evgenia-r/workspace/my-workspace/collection/31109371-4ebe9155-9660-4427-85b6-68f8c56da0cf?action=share&creator=31109371
+
+Примеры тест-кейсов для тестирования запросов коллекции Postman
+
+https://docs.google.com/spreadsheets/d/19VVjOwdnDDZiwvXH03xzSfDwLy8sAQms3RBVslCw8Do/edit?usp=sharing
 
 ### 📁 Тестовая документация:
 
