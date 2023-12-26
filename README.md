@@ -6,7 +6,6 @@
 
 Я тестировщик (QA engineer), и здесь вы можете увидеть примеры моих работ
 
-![scale_1200_2](https://github.com/EvgeniaRazumovskaya/EvgeniaRazumovskaya/assets/154015440/eab5307e-b010-450a-95d5-2c2d611b0b87)
 
 
 - 📫 Моя почта
