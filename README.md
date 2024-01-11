@@ -3,7 +3,8 @@
 Я тестировщик (QA engineer), и здесь вы можете увидеть примеры моих работ
 
 
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@evgenia-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/evgenia-r/) [![Gmail Badge](https://img.shields.io/badge/-mail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.evgenia@yandex.ru)
+- 📫 Моя почта для связи: qa.evgenia@yandex.ru
+- Также со мной можно связаться: [![LinkedIn Badge](https://img.shields.io/badge/-@evgenia-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/evgenia-r/) 
 
 ## My CV 
 
