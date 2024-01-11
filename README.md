@@ -19,7 +19,7 @@
 <li>  <a href="https://github.com/EvgeniaRazumovskaya/API-testing"> REST and SOAP API testing via Postman </a>   </li>
 <li> <a href="https://github.com/EvgeniaRazumovskaya/MySQL">MySQL</a>   </li>
 <li>  <a href="https://github.com/EvgeniaRazumovskaya/Mobile-Testing"> Mobile app testing</a>   </li>
-<li> <a href="https://github.com/EvgeniaRazumovskaya/Mobile-Testing">Replacing data with CharlesProxy</a>  </li>
+<li> <a href="https://github.com/EvgeniaRazumovskaya/Charles-Proxy">Replacing data with CharlesProxy</a>  </li>
 <li> <a href="https://github.com/EvgeniaRazumovskaya/bash"> Bash </a>  </li>
 <li> <a href="https://github.com/EvgeniaRazumovskaya/Testing-documentation"> Тестовая документация </a> </li>
 </ul>
