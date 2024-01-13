@@ -6,7 +6,7 @@
 - 📫 Моя почта для связи: qa.evgenia@yandex.ru
 - Также со мной можно связаться: [![LinkedIn Badge](https://img.shields.io/badge/-@evgenia-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/evgenia-r/) 
 
-## My CV 
+## Мое резюме 
 
  📄[Evgenia Razumovskaya CV](https://drive.google.com/file/d/1a-o3qSuT9b-qoIeWjv8sfBjXoI2t09dY/view?usp=sharing)
 
@@ -95,14 +95,14 @@
 
 ---
 
-### 👨‍🎓 Completed training courses:
+### 👨‍🎓 Я закончила курс по тестированию:
 
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
 | [artsiomrusau.com](https://artsiomrusau.com/)/ Курс "Функциональное тестирование ПО"              | 10/2023 - 12/2023 |
 
 ---
-### 📜Certificates:
+### 📜Мой сертификат:
 
 🔗[QA engineer](https://drive.google.com/file/d/1edWbgJulizq9Mnixu4qWe5UOOhmXa1N4/view?usp=sharing)
 
