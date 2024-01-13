@@ -8,7 +8,7 @@
 
 ## Мое резюме 
 
- 📄[Evgenia Razumovskaya CV](https://drive.google.com/file/d/1a-o3qSuT9b-qoIeWjv8sfBjXoI2t09dY/view?usp=sharing)
+ 📄[Evgenia Razumovskaya CV](https://drive.google.com/file/d/1YKWLpF9SBfK-0vWCX05NI54FXEVOXmN3/view?usp=sharing)
 
 
 </p>
